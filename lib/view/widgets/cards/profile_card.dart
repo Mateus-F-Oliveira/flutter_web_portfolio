@@ -1,12 +1,12 @@
-import 'package:my_profile/view/widgets/profile_text_description.dart';
-import 'package:my_profile/view/widgets/specializations_list.dart';
-import 'package:my_profile/view/widgets/profile_text_name.dart';
-import 'package:my_profile/view/widgets/profile_divider.dart';
-import 'package:my_profile/view/widgets/profile_image.dart';
-import 'package:my_profile/view/widgets/contacts_list.dart';
-import 'package:my_profile/view/widgets/skills_list.dart';
-import 'package:my_profile/view/widgets/works_list.dart';
-import 'package:my_profile/view/widgets/copyright.dart';
+import 'package:my_profile/view/widgets/texts/profile_text_description.dart';
+import 'package:my_profile/view/widgets/lists/specializations_list.dart';
+import 'package:my_profile/view/widgets/texts/profile_text_name.dart';
+import 'package:my_profile/view/widgets/ui_components/profile_divider.dart';
+import 'package:my_profile/view/widgets/images/profile_image.dart';
+import 'package:my_profile/view/widgets/lists/contacts_list.dart';
+import 'package:my_profile/view/widgets/lists/skills_list.dart';
+import 'package:my_profile/view/widgets/lists/works_list.dart';
+import 'package:my_profile/view/widgets/texts/copyright.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 

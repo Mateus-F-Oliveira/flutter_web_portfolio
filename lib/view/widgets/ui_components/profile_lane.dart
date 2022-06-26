@@ -1,4 +1,4 @@
-import 'package:my_profile/view/widgets/profile_card.dart';
+import 'package:my_profile/view/widgets/cards/profile_card.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 

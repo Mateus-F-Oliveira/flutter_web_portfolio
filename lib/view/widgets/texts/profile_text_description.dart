@@ -1,4 +1,4 @@
-import 'package:my_profile/view/widgets/open_link_in_new_window_for_textspan.dart';
+import 'package:my_profile/view/widgets/buttons/open_link_in_new_window_for_textspan.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 

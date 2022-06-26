@@ -1,5 +1,5 @@
-import 'package:my_profile/view/widgets/list_title.dart';
-import 'package:my_profile/view/widgets/works_card.dart';
+import 'package:my_profile/view/widgets/texts/list_title.dart';
+import 'package:my_profile/view/widgets/cards/works_card.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 

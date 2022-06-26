@@ -1,4 +1,4 @@
-import 'package:my_profile/view/widgets/list_title.dart';
+import 'package:my_profile/view/widgets/texts/list_title.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 

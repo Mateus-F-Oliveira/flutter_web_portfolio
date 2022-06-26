@@ -1,5 +1,5 @@
-import 'package:my_profile/view/widgets/image_background_profile.dart';
-import 'package:my_profile/view/widgets/profile_lane.dart';
+import 'package:my_profile/view/widgets/images/image_background_profile.dart';
+import 'package:my_profile/view/widgets/ui_components/profile_lane.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 
