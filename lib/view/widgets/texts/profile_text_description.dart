@@ -15,7 +15,7 @@ Widget profileTextDescription()
           openLinkInNewWindowForTextSpan(text: "Engenharia de Software"),
           const TextSpan(text: " pela "),
           openLinkInNewWindowForTextSpan(text: "Universidade Federal do Mato Grosso do Sul (UFMS)",link: "https://www.ufms.br/"),
-          const TextSpan(text: ".")
+          const TextSpan(text: ". Em busca de vaga de emprego junior como desenvolvedor front end ou como analista de requisitos.")
         ]
       ),
     ),

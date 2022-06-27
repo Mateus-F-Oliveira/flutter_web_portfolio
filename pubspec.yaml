@@ -65,6 +65,17 @@ flutter:
     - lib/assets/images/nutriacao_image.png
     - lib/assets/images/cabine_digital_image.png
     - lib/assets/images/ledes_image.png
+    - lib/assets/images/bootstrap_icon.png
+    - lib/assets/images/c_icon.png
+    - lib/assets/images/dart_icon.png
+    - lib/assets/images/flutter_icon.png
+    - lib/assets/images/html_icon.png
+    - lib/assets/images/java_icon.png
+    - lib/assets/images/mysql_icon.png
+    - lib/assets/images/php_icon.png
+    - lib/assets/images/postgres_icon.png
+    - lib/assets/images/python_icon.png
+    - lib/assets/images/requirements_icon.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
