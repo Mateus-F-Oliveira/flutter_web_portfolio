@@ -1,16 +1,9 @@
 # my_profile
 
-A new Flutter project.
+"my_profile" é o codinome de projeto para o website estático implementado em flutter cujo conteúdo é o meu próprio currículo lattes, o qual foi criado para testar a versão 3.0 do flutter na plataforma web, e também, para criar uma versão online e interativa do meu currículo.
 
-## Getting Started
+## Documentação
 
-This project is a starting point for a Flutter application.
+Acesse a documentação do projeto, que foi feita na plataforma Notion, através do link abaixo:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Documentação do Projeto](https://glitter-chalk-226.notion.site/Portf-lio-8ac77057681f4e96925158e469f422a5)
