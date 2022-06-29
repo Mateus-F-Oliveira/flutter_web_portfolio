@@ -1,9 +1,8 @@
-import 'package:flutter/material.dart';
-import 'dart:core';
-
 import 'package:my_profile/view/widgets/images/skills_card_image.dart';
 import 'package:my_profile/view/widgets/texts/skills_card_level.dart';
 import 'package:my_profile/view/widgets/texts/skills_card_title.dart';
+import 'package:flutter/material.dart';
+import 'dart:core';
 
 Widget skillsCard({required String image, required String title, required String level})
 {
