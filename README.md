@@ -7,3 +7,5 @@
 Acesse a documentação do projeto, que foi feita na plataforma Notion, através do link abaixo:
 
 - [Documentação do Projeto](https://glitter-chalk-226.notion.site/Portf-lio-8ac77057681f4e96925158e469f422a5)
+
+Último update em 28/06/2022
