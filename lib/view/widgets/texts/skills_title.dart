@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget skillsCardTitle({required String title})
+Widget skillsTitle({required String title})
 {
   return Padding(
     padding: const EdgeInsets.only(left: 65),

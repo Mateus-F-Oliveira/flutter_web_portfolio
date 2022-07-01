@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget copyright()
+Widget copyrightFooter()
 {
   return const Align(
     alignment: Alignment.bottomCenter,

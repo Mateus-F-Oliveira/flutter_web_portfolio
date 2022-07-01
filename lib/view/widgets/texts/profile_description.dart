@@ -1,8 +1,8 @@
-import 'package:my_profile/view/widgets/buttons/open_link_in_new_window_for_textspan.dart';
+import 'package:my_profile/view/widgets/buttons/open_link_profile_description.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget profileTextDescription()
+Widget profileDescription()
 {
   return SizedBox(
     width: 500,
@@ -12,9 +12,9 @@ Widget profileTextDescription()
         style: const TextStyle(fontSize: 14, color: Colors.white),
         children: [
           const TextSpan(text: "Desenvolvedor e projetista de software formado em "),
-          openLinkInNewWindowForTextSpan(text: "Engenharia de Software"),
+          openLinkProfileDescription(text: "Engenharia de Software", link: ""),
           const TextSpan(text: " pela "),
-          openLinkInNewWindowForTextSpan(text: "Universidade Federal do Mato Grosso do Sul (UFMS)",link: "https://www.ufms.br/"),
+          openLinkProfileDescription(text: "Universidade Federal do Mato Grosso do Sul (UFMS)",link: "https://www.ufms.br/"),
           const TextSpan(text: ". Em busca de vaga de emprego junior como desenvolvedor front end ou como analista de requisitos.")
         ]
       ),

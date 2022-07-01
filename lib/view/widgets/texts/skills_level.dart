@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget skillsCardLevel({required String level})
+Widget skillsLevel({required String level})
 {
   return Padding(
     padding: const EdgeInsets.only(right: 32),

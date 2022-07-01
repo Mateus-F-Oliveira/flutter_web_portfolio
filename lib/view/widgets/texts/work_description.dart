@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget workCardDescription({required String description, dynamic alignmentDescription})
+Widget workDescription({required String description, required dynamic alignmentDescription})
 {
   return Align(
     alignment: alignmentDescription,

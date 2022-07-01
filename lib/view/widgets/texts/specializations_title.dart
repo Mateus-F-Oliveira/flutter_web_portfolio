@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget specializationsCardTitle({required String title})
+Widget specializationsTitle({required String title})
 {
   return SizedBox(
     height: 40,

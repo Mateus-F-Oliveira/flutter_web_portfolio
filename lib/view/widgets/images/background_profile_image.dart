@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:core';
 import 'dart:ui';
 
-Widget imageBackgroundProfile()
+Widget backgroundProfileImage()
 {
   return Container(
     width: double.maxFinite,

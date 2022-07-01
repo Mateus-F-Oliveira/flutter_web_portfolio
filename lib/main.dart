@@ -1,4 +1,4 @@
-import 'package:my_profile/view/pages/home_page.dart';
+import 'package:my_profile/view/pages/home.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 

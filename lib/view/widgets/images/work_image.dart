@@ -1,7 +1,12 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget workCardImage({required String image, Color? color, dynamic alignmentImage})
+Widget workImage(
+{
+  required String image,
+  Color? color,
+  required dynamic alignmentImage
+})
 {
   return Align(
     alignment: alignmentImage,

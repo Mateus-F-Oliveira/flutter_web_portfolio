@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget profileTextName()
+Widget profileName()
 {
   return const Text(
     "MATEUS F. OLIVEIRA",
