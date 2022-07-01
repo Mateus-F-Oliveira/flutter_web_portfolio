@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'dart:html' as html;
 import 'dart:core';
 
-Widget workCardLink({required String link, dynamic alignmentButton})
+Widget openLinkWork({required String link, required dynamic alignmentButton})
 {
   return Align(
     alignment: alignmentButton,

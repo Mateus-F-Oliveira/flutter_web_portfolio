@@ -1,11 +1,10 @@
+import 'package:my_profile/view/widgets/ui_components/specialization_divider.dart';
 import 'package:my_profile/view/widgets/buttons/open_link_specialization.dart';
-import 'package:my_profile/view/widgets/texts/specializations_card_title.dart';
+import 'package:my_profile/view/widgets/texts/specializations_title.dart';
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-import 'package:my_profile/view/widgets/ui_components/specialization_divider.dart';
-
-Widget specializationsCard(
+Widget specializationsBox(
 {
   required String title,
   required String link
@@ -22,7 +21,7 @@ Widget specializationsCard(
       width: 500,
       child: Row(
         children: [
-          specializationsCardTitle(title: title),
+          specializationsTitle(title: title),
           specializationsDivider(),
           openLinkSpecialization(link: link)
         ],

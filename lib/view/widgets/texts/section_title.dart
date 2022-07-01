@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget listTitle({required String title})
+Widget sectionTitle({required String title})
 {
   return Text(
     title,

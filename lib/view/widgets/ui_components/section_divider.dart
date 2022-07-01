@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:core';
 
-Widget profileDivider()
+Widget sectionDivider()
 {
   return const SizedBox(
     width: 500,
