@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 import 'dart:html' as html;
 import 'dart:core';
 
-Widget workCardLink({String? link, dynamic alignmentButton})
+Widget workCardLink({required String link, dynamic alignmentButton})
 {
-  return link==null ? const SizedBox() : Align(
+  return Align(
     alignment: alignmentButton,
     child: GestureDetector(
       onTap: () => html.window.open(link, 'new tab'),

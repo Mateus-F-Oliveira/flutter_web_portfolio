@@ -62,6 +62,7 @@ flutter:
   assets:
     - lib/assets/images/profile.png
     - lib/assets/images/profile_icon.png
+    - lib/assets/images/profile_photo.png
     - lib/assets/images/nutriacao_image.png
     - lib/assets/images/cabine_digital_image.png
     - lib/assets/images/ledes_image.png

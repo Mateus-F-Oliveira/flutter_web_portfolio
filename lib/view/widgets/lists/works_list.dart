@@ -14,7 +14,7 @@ Widget worksList()
         const SizedBox(height: 32),
         worksCard(
           title: "NutriAção de Bolso",
-          description: "Et quos quia qui error reiciendis et nihil quasi ut magni galisum sed quisquam veritatis est maxime adipisci aut expedita explicabo. Et illo enim est corporis rerum et sequi consequuntur et voluptates ut eveniet nostrum ea omnis accusamus 33 sequi fugit.",
+          description: "Foi um projeto submetido no Núcleo de Práticas de Engenharia de Software (NES) da FACOM na UFMS no segundo semestre do ano de 2021, no qual participei e atuei principalmente como desenvolvedor mobile, porém, também colaborei com a documentação do projeto.",
           image: "lib/assets/images/nutriacao_image.png",
           link: "https://nes.facom.ufms.br/projeto/20",
           color: Colors.white,
@@ -25,7 +25,7 @@ Widget worksList()
         ),
         worksCard(
           title: "Cabine Digital",
-          description: "Et quos quia qui error reiciendis et nihil quasi ut magni galisum sed quisquam veritatis est maxime adipisci aut expedita explicabo. Et illo enim est corporis rerum et sequi consequuntur et voluptates ut eveniet nostrum ea omnis accusamus 33 sequi fugit.",
+          description: "Foi um projeto submetido no Núcleo de Práticas de Engenharia de Software (NES) da FACOM na UFMS no primeiro semestre do ano de 2022, no qual participei como desenvolvedor mobile durante a primeira metade da fase de desenvolvimento, já na segunda fase atuei na parte de gerência de configuração, mas também, colaborei com a gerência de projeto.",
           image: "lib/assets/images/cabine_digital_image.png",
           link: "https://nes.facom.ufms.br/projeto/23",
           color: const Color(0xFF0088B7),
@@ -36,7 +36,7 @@ Widget worksList()
         ),
         worksCard(
           title: "Suporte",
-          description: "Et quos quia qui error reiciendis et nihil quasi ut magni galisum sed quisquam veritatis est maxime adipisci aut expedita explicabo. Et illo enim est corporis rerum et sequi consequuntur et voluptates ut eveniet nostrum ea omnis accusamus 33 sequi fugit.",
+          description: "Atuei brevemente como suporte no durante o estágio que fiz no Laboratório de Engenharia de Software (LEDES) no primeiro semestre de 2022, o qual foi o meu estágio obrigatório.",
           image: "lib/assets/images/ledes_image.png",
           link: "http://portal.ledes.net/",
           alignmentImage: Alignment.centerRight,
