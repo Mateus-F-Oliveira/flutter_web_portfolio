@@ -10,12 +10,14 @@ Widget workCardDescription({required String description, dynamic alignmentDescri
       child: SizedBox(
         height: 120,
         width: 270,
-        child: Text(
-          description,
-          textAlign: TextAlign.left,
-          style: const TextStyle(
-            fontSize: 14,
-            color: Colors.white,
+        child: SingleChildScrollView(
+          child: Text(
+            description,
+            textAlign: TextAlign.center,
+            style: const TextStyle(
+              fontSize: 14,
+              color: Colors.white,
+            ),
           ),
         ),
       ),
